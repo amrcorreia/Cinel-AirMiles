@@ -1,0 +1,2 @@
+# Cinel-AirMiles
+Air Miles Distributed Management System divided into Front-office and Backoffice, and two servers (Linux and Windows). Users CRUD (clients and employees), partners and benefits CRUD's, client complaints and three different roles(user, admin, and superuser), notifications for superusers, miles management, including purchase and conversion. Aircraft current news page on front-office. 
